@@ -1,4 +1,4 @@
-# Modern Landing Page
+# Awesome Landing Page
 
 A clean and responsive landing page built with HTML and CSS.
 

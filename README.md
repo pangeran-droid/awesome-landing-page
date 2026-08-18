@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/Boxicons-1E90FF?style=for-the-badge&logo=boxicons&logoColor=white" alt="Boxicons">
 </p>
 
-## Preview
-
 <p align="center">
   <img src="assets/images/preview.png" alt="Awesome Landing Page Preview">
 </p>

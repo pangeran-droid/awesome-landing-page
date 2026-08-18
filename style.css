@@ -72,6 +72,7 @@ body {
 }
 
 .navbar a {
+  display: inline-block;
   color: var(--text-color);
   font-size: var(--p-font);
   font-weight: 500;
@@ -80,6 +81,7 @@ body {
 
 .navbar a:hover {
   color: var(--main-color);
+  transform: translateY(-3px) scale(1.05);
 }
 
 /* Social Media */
@@ -123,7 +125,7 @@ section {
     linear-gradient(to right,
       rgba(0, 0, 0, 0.75),
       rgba(0, 0, 0, 0.3)),
-    url('assets/images/hero.jpg');
+    url('assets/images/hero.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

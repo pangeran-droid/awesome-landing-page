@@ -2,6 +2,11 @@
 
 A clean and responsive landing page built with HTML and CSS.
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white)
+![Boxicons](https://img.shields.io/badge/Boxicons-1E90FF?style=flat-square&logo=boxicons&logoColor=white)
+
 ## Features
 
 - Modern and clean design
